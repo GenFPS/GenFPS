@@ -24,7 +24,7 @@ Welcome to my little space on Github. My name is Sergey Fedotov! Currently I'm a
 
 ### CodeForces
 
-[![CodeForces Stats](https://leetcard.jacoblin.cool/GenFPS?theme=unicorn&font=Indie%20Flower)](https://leetcode.com/GenFPS/)
+[![CodeForces Stats](https://leetcard.jacoblin.cool/GenFPS?theme=unicorn&font=Indie%20Flower)](https://codeforces.com/profile/GenFPS)
 
 ## Contacts
 
