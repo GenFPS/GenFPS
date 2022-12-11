@@ -5,8 +5,8 @@ Welcome to my little space on Github. My name is Sergey Fedotov! Currently I'm a
 
 ### Contacts
 
-[VK](https://vk.com/generalfps)
-[Stepik](https://stepik.org/users/334678000)
-[Telegram](https://t.me/genfps)
-[Leetcode](https://leetcode.com/GenFPS/)
-[Codeforces](https://codeforces.com/profile/GenFPS)
+- [VK](https://vk.com/generalfps)
+- [Stepik](https://stepik.org/users/334678000)
+- [Telegram](https://t.me/genfps)
+- [Leetcode](https://leetcode.com/GenFPS/)
+- [Codeforces](https://codeforces.com/profile/GenFPS)
