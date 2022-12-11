@@ -16,8 +16,6 @@ Welcome to my little space on Github. My name is Sergey Fedotov! Currently I'm a
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![leetcode](https://leetcode.com/GenFPS/badges/large)](https://leetcode.com/GenFPS/)
-
 ### Contacts
 
 - [VK](https://vk.com/generalfps)
@@ -25,3 +23,10 @@ Welcome to my little space on Github. My name is Sergey Fedotov! Currently I'm a
 - [Telegram](https://t.me/genfps)
 - [Leetcode](https://leetcode.com/GenFPS/)
 - [Codeforces](https://codeforces.com/profile/GenFPS)
+
+
+## Stats
+
+### Leetcode
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/GenFPS?theme=unicorn&font=Indie%20Flower)](https://leetcode.com/GenFPS/)
