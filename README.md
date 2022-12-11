@@ -28,7 +28,7 @@ Welcome to my little space on Github. My name is Sergey Fedotov! Currently I'm a
 
 ## Contacts
 
-[![VK](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/100px-VK.com-logo.svg.png)](https://vk.com/generalfps)
+[![VK](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/200px-VK.com-logo.svg.png)](https://vk.com/generalfps)
 - [![Stepik](https://stepik.org/static/frontend/topbar_logo.svg)](https://stepik.org/users/334678000)
-- [Telegram](https://t.me/genfps)
+- [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/80px-Telegram_2019_Logo.svg.png)](https://t.me/genfps)
 
