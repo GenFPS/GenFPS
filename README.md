@@ -8,7 +8,7 @@ Welcome to my little space on Github. My name is Sergey Fedotov! Currently I'm a
 ###  Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VBScript](https://img.shields.io/badge/VBScript-3670A0?style=for-the-badge&logo=VBScript&logoColor=ffdd54)
+![VBScript](https://img.shields.io/badge/VBScript-3670A0?style=for-the-badge&logo=VBScript&logoColor=8A2BE2)
 
 ### Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
